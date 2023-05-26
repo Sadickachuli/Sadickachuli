@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Puddles&weight=300&size=22&pause=1000&color=1DF2F7&background=B330A8F3&width=435&lines=Welcome...+Heaven+under+construction.+Sit+tight+and+find+your+chi)](https://git.io/typing-svg)
-<h1 align="center"> <b>Yo what's good fam... HEAVEN UNDER CONSTRUCTION. SIT TIGHT</b>👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Puddles&weight=300&size=22&pause=1000&color=1DF2F7&background=B330A8F3&width=800&lines=Welcome...+Heaven+under+construction.+Sit+tight+and+find+your+chi)](https://git.io/typing-svg)
 <h2 align="center">A proud software engineer tryna do great things.</h2>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="200"/><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NwbHV0aTU5OThqczkxZHcwMmFxanpnZGlqNHp0MWI4dDBlazB5aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="200"/>
