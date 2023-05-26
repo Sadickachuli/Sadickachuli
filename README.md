@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Puddles&weight=300&size=22&pause=1000&color=1DF2F7&background=B330A8F3&width=435&lines=Welcome...+Heaven+under+construction.+Sit+tight+and+find+your+chi)](https://git.io/typing-svg)
 <h1 align="center"> <b>Yo what's good fam... HEAVEN UNDER CONSTRUCTION. SIT TIGHT</b>👋</h1>
 <h2 align="center">A proud software engineer tryna do great things.</h2>
 <div id="header" align="center">
