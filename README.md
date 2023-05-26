@@ -1,3 +1,11 @@
+<style>
+  h1 {
+    text-align: center;
+    color: blue;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+  }
+</style>
 <h1 align="center"> Yo Sadick here. What's good. Welcome to my heaven for now👋</h1>
 <h2 align="center">A proud software engineer tryna do great things.</h2>
 <div id="header" align="center">
@@ -21,11 +29,4 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) ![Pycharm](https://img.shields.io/badge/pycharm-%23121011.svg?style=for-the-badge&logo=pycharm&logoColor=green) ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![Google sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) 
 
 ## 📊 GitHub Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api?username=Sadickachuli&show_icons=true&theme=gruvbox_light&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadickachuli&langs_count=8&theme=gruvbox_light&layout=compact" />
-</a>                  
-
 <p><img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadickachuli&theme=dark" alt="Sadickachuli" /></p>
