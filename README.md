@@ -1,11 +1,3 @@
-<style>
-  h1 {
-    text-align: center;
-    color: blue;
-    font-size: 24px;
-    font-family: Arial, sans-serif;
-  }
-</style>
 <h1 align="center"> Yo Sadick here. What's good. Welcome to my heaven for now👋</h1>
 <h2 align="center">A proud software engineer tryna do great things.</h2>
 <div id="header" align="center">
