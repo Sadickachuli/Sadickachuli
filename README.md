@@ -1,7 +1,7 @@
 <h1 align="center"> Yo Sadick here. What's good. Welcome to my heaven for now👋</h1>
 <h2 align="center">A proud software engineer tryna do great things.</h2>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="300"/>
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sadickachuli)](https://github.com/ryo-ma/github-profile-trophy)
