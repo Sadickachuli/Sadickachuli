@@ -12,7 +12,7 @@
 - 💬 Ask me **anything about movies, music, and programming**
 - 📫 How to reach me: **m.achuli@alustudent.com**
 - 😄 Pronouns: **Him/His/He** (I'm a proud member of the male community)
-- ⚡ Fun fact: **I think I'm pretty funny and fun. At least I laugh at myself sometimes**
+- ⚡ Fun fact: **I'd probably beat you in a 1v1 basketball**
 
 ## 🌐 Link up with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/s_adh_ick/)/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadick-achuli-81955b249/)/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sadh_ick)
