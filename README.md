@@ -6,9 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sadickachuli)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **front-end web development**
+- 🔭 I’m currently working on **front and back-end web development**
 - 🌱 I’m currently learning **Software Engineering**
-- 👯 I’m looking to **get a good internship to build my portfolio**
 - 💬 Ask me **anything about movies, music, and programming**
 - 📫 How to reach me: **m.achuli@alustudent.com**
 - 😄 Pronouns: **Him/His/He** (I'm a proud member of the male community)
