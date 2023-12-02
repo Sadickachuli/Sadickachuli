@@ -6,11 +6,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sadickachuli)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **front and back-end web development**
-- 🌱 I’m currently learning **Software Engineering**
-- 💬 Ask me **anything about movies, music, and programming**
+- 🔭 I’m currently working on **back-end web development**
+- 🌱 I’m an **Avid Learner**
+- 💬 Ask me **anything about movies, music, sustainable development, and tech**
 - 📫 How to reach me: **m.achuli@alustudent.com**
-- 😄 Pronouns: **Him/His/He** (I'm a proud member of the male community)
 - ⚡ Fun fact: **I'd probably beat you in a 1v1 basketball**
 
 ## 🌐 Link up with me:
