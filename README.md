@@ -21,3 +21,8 @@
 
 ## 📊 GitHub Stats:
 <p><img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadickachuli&theme=dark" alt="Sadickachuli" /></p>
+
+<a href="https://sadickachuli.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sadickachuli&show_icons=true&theme=blue-green&count_private=true&hide=stars" />
+</a>
+[![wakatime](https://wakatime.com/badge/user/aa5da215-37c0-48c1-b96f-fca8bd619595.svg)](https://wakatime.com/@aa5da215-37c0-48c1-b96f-fca8bd619595)
