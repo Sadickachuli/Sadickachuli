@@ -6,7 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sadickachuli)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **back-end web development**
+- 🔭 I’m currently working on **Machine Learning and AI**
 - 🌱 I’m an **Avid Learner**
 - 💬 Ask me **anything about movies, music, sustainable development, and tech**
 - 📫 How to reach me: **m.achuli@alustudent.com**
