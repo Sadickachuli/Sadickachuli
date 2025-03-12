@@ -6,9 +6,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sadickachuli)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently specialising in **Machine Learning and AI**
+- 🔭 I’m currently specialising in **Machine Learning/AI**
 - 🌱 I’m an **Avid Learner**
-- 💬 Ask me **anything about movies, music, sustainable development, and tech**
+- 💬 Ask me **anything about music, cars, sustainable development, and tech**
 - 📫 How to reach me: **m.achuli@alustudent.com**
 - ⚡ Fun fact: **I'd probably beat you in a 1v1 basketball 🏀**
 
